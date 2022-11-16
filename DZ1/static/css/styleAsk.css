@@ -1,0 +1,80 @@
+.container {
+    padding: 60px 15px 0;
+    margin-left: 20px;
+    margin-top: 30px;
+}
+
+.btn-outline-success {
+    background-color: springgreen;
+    color: black;
+}
+
+.titleForQuestion {
+    margin-bottom: 20px;
+    padding: 20px;
+    margin-top: 8px;
+    margin-left: 0px;
+    padding: 0%;
+}
+
+.col-8 h6 {
+    text-align: center;
+    margin-top: 8px;
+    font-size: 18px;
+}
+
+.textForQuestion {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+button[type = ask] {
+    margin-top: 20px;
+}
+
+h1.newQuestions {
+    margin-bottom: 20px;
+}
+
+div.popularTags {
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+
+div.popularTags span {
+    margin-right: 26px;
+}
+
+div.popularTags a {
+    margin-right: inherit;
+}
+
+a.tag1 {
+    color: blue;
+    font-size: 18px;
+}
+
+a.tag2 {
+    color: red;
+    font-size: 32px;
+}
+
+a.tag3 {
+    color: green;
+    font-size: 24px;
+}
+
+div.bestMembers {
+    margin-left: 20px;
+    font-size: 24px;
+}
+
+li.users {
+    margin-left: -30px;
+    margin-bottom: 10px;
+    list-style: none;
+}
+
+h1.newQuestions {
+    margin-bottom: 20px;
+}

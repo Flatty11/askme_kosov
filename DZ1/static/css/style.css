@@ -1,0 +1,83 @@
+.container {
+    padding: 60px 15px 0;
+    margin-left: 40px;
+    margin-top: 10px;
+}
+
+.question {
+    margin-bottom: 20px;
+    border: 2px solid gray;
+    border-radius: 6px;
+    padding: 20px;
+}
+
+.mainQuestion {
+    margin-bottom: 20px;
+    border-bottom: 2px solid gray;
+    padding: 20px;
+}
+
+.avatar {
+    margin-top: 40px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    overflow: auto;
+}
+
+.avatar img { 
+    max-width: 100%;
+    height: 100%;
+    object-fit: cover;
+    vertical-align: middle;
+}
+
+.btn-outline-success {
+    background-color: springgreen;
+    color: black;
+}
+
+div.popularTags {
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+
+div.popularTags span {
+    margin-right: 26px;
+}
+
+div.popularTags a {
+    margin-right: inherit;
+}
+
+a.tag1 {
+    color: blue;
+    font-size: 18px;
+}
+
+a.tag2 {
+    color: red;
+    font-size: 32px;
+}
+
+a.tag3 {
+    color: green;
+    font-size: 24px;
+}
+
+div.bestMembers {
+    margin-left: 20px;
+    font-size: 24px;
+}
+
+li.users {
+    margin-left: -30px;
+    margin-bottom: 10px;
+    list-style: none;
+}
+
+h1.newQuestions {
+    margin-bottom: 20px;
+}
